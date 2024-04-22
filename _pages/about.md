@@ -43,9 +43,18 @@ My research interest includes federated learning and edge computing.
 </div>
 -->
 - Federated Learning
-  - [Hiflash: Communication-efficient hierarchical federated learning with adaptive staleness control and heterogeneity-aware client-edge association](https://ieeexplore.ieee.org/document/10021868)
+  - Hiflash: Communication-efficient hierarchical federated learning with adaptive staleness control and heterogeneity-aware client-edge association.[paper](https://ieeexplore.ieee.org/document/10021868)<br>
+  Qiong Wu, Xu Chen, Tao Ouyang, Zhi Zhou, Xiaoxi Zhang, Shusen Yang and Junshan Zhang<br>
+  IEEE Transactions on Parallel and Distributed Systems, 2023<br>
+  - FedHome: Cloud-Edge Based Personalized Federated Learning for In-Home Health Monitoring [paper](https://ieeexplore.ieee.org/abstract/document/9296274)<br>
+  Qiong Wu, Xu Chen, Zhi Zhou and Junshan Zhang<br>
+  IEEE Transactions on Mobile Computing, 2022<br>
+  - 
 - Edge Computing
   - 2
+
+- Social Data Analysis
+
 
 
 # 🎖 Honors and Awards
