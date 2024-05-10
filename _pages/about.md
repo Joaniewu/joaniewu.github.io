@@ -17,18 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoc at Hong Kong University of Science and Technology (HKUST). I received my Ph.D. degree at Sun Yat-sen University (SYSU), supervised by Prof. Xu Chen in 2023. 
+I am currently a postdoc at Hong Kong University of Science and Technology (HKUST). I received my Ph.D. degree at Sun Yat-sen University (SYSU), advised by Prof. Xu Chen in 2023. 
 
-My research interest includes federated learning and edge computing.
+My research interests lie in federated learning, mobile edge computing, large language model in telecom domain and social data analytics. 
 
 
-<!--
+
+
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--->
+- [Apr. 2024] &nbsp;I joined . 
+- *2024.01*: &nbsp;Our paper "Collaboration in Federated Learning with Differential Privacy: A Stackelberg Game Analysis" was accepted to IEEE Transactions on Parallel and Distributed Systems. [paper](https://ieeexplore.ieee.org/abstract/document/10400897)
 
-# 📝 Publications 
+
+# 📝 Selected Publications 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -49,11 +50,31 @@ My research interest includes federated learning and edge computing.
   - FedHome: Cloud-Edge Based Personalized Federated Learning for In-Home Health Monitoring [paper](https://ieeexplore.ieee.org/abstract/document/9296274)<br>
   Qiong Wu, Xu Chen, Zhi Zhou and Junshan Zhang<br>
   IEEE Transactions on Mobile Computing, 2022<br>
-  - 
-- Edge Computing
-  - 2
+  - Personalized federated learning for intelligent IoT applications: A cloud-edge based framework [paper](https://ieeexplore.ieee.org/abstract/document/9090366)<br>
+  Qiong Wu, Kaiwen He and Xu Chen<br>
+  IEEE Open Journal of the Computer Society, 2020<br>
+  - Collaboration in Federated Learning with Differential Privacy: A Stackelberg Game Analysis [paper](https://ieeexplore.ieee.org/abstract/document/10400897)<br>
+  Guangjing Huang, Qiong Wu, Peng Sun, Qian Ma and Xu Chen<br>
+  IEEE Transactions on Parallel and Distributed Systems, 2024<br>
+  - Fedleo: An offloading-assisted decentralized federated learning framework for low earth orbit satellite networks [paper](https://ieeexplore.ieee.org/abstract/document/10216376)<br>
+  Zhiwei Zhai, Qiong Wu, Shuai Yu, Rui Li, Fei Zhang and Xu Chen<br>
+  IEEE Transactions on Mobile Computing, 2023<br>
+
+- Mobile Traffic Prediction and Prediction-based Base Station Sleep Control
+  - Deep transfer learning across cities for mobile traffic prediction [paper](https://ieeexplore.ieee.org/abstract/document/9662277)<br>
+  Qiong Wu, Kaiwen He, Xu Chen, Shuai Yu and Junshan Zhang<br>
+  IEEE/ACM Transactions on Networking, 2021<br>
+  - Deep reinforcement learning with spatio-temporal traffic forecasting for data-driven base station sleep control [paper](https://ieeexplore.ieee.org/abstract/document/9340607)<br>
+  Qiong Wu, Xu Chen, Zhi Zhou, Liang Chen and Junshan Zhang<br>
+  IEEE/ACM transactions on networking, 2021<br>
 
 - Social Data Analysis
+  - DeepCP: Deep learning driven cascade prediction-based autonomous content placement in closed social network [paper](https://ieeexplore.ieee.org/abstract/document/9107092)<br>
+  Qiong Wu, Muhong Wu, Xu Chen, Zhi Zhou, Kaiwen He and Liang Chen<br>
+  IEEE Journal on Selected Areas in Communications, 2020<br>
+  - Mobile social data learning for user-centric location prediction with application in mobile edge service migration [paper](https://ieeexplore.ieee.org/abstract/document/8660411)<br>
+  Qiong Wu, Xu Chen, Zhi Zhou and Liang Chen<br>
+  IEEE Internet of Things Journal, 2019<br>
 
 
 
@@ -68,11 +89,12 @@ My research interest includes federated learning and edge computing.
 <!--
   - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
-<!--
+
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--->
+- *2019.09 - 2023.06*, PhD, Computer Science and Technology, Sun Yat-sen University, China. 
+- *2017.09 - 2019.06*, M.Eng., Software Engineering, Sun Yat-sen University, China. 
+- *2013.08 - 2017.06*, B.Eng., Software Engineering, Sun Yat-sen University, China.
+
 <!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
