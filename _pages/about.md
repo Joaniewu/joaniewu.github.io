@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qiong Wu"
+title: "Qiong"
 excerpt: ""
 author_profile: true
 redirect_from: 
