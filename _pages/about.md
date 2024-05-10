@@ -26,7 +26,7 @@ My research interests lie in federated learning, mobile edge computing, large la
 
 # 🔥 News
 - [Apr. 2024] &nbsp;I joined . 
-- *2024.01*: &nbsp;Our paper "Collaboration in Federated Learning with Differential Privacy: A Stackelberg Game Analysis" was accepted to IEEE Transactions on Parallel and Distributed Systems. [paper](https://ieeexplore.ieee.org/abstract/document/10400897)
+- [Jan. 2024]*: &nbsp;Our paper "Collaboration in Federated Learning with Differential Privacy: A Stackelberg Game Analysis" was accepted to IEEE Transactions on Parallel and Distributed Systems. [paper](https://ieeexplore.ieee.org/abstract/document/10400897)
 
 
 # 📝 Selected Publications 
