@@ -25,7 +25,7 @@ My research interests lie in federated learning, mobile edge computing, large la
 
 
 # 🔥 News
-- [Jun 2024] &nbsp;Our paper "IMFL-AIGC: Incentive Mechanism Design for Federated Learning Empowered by Artificial Intelligence Generated Content" was accepted to IEEE Transactions on Mobile Computing. 
+- [Jun. 2024] &nbsp;Our paper "IMFL-AIGC: Incentive Mechanism Design for Federated Learning Empowered by Artificial Intelligence Generated Content" was accepted to IEEE Transactions on Mobile Computing. 
 - [May 2024] &nbsp;Our paper "Communication-efficient Multi-service Mobile Traffic Prediction by Leveraging Cross-service Correlations" was accepted to ACM KDD 2024. 
 - [Jan. 2024] &nbsp;Our paper "Collaboration in Federated Learning with Differential Privacy: A Stackelberg Game Analysis" was accepted to IEEE Transactions on Parallel and Distributed Systems. [paper](https://ieeexplore.ieee.org/abstract/document/10400897)
 
