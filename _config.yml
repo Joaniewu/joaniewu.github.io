@@ -162,5 +162,3 @@ compress_html:
   ignore:
     envs: development
 
-# port
-port:4001
