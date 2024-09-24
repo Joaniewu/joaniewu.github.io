@@ -103,6 +103,8 @@ My research interests lie in federated learning, mobile edge computing, large la
 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
+# 💻 Internships
+- Intern at Department of Financial Technology, Tencent Inc. (Mar. 2019 - Aug. 2019)
 
 # 🛠︎ Academic Services
 - Journal Reviewer
@@ -116,5 +118,4 @@ My research interests lie in federated learning, mobile edge computing, large la
   - The 20th IFIP International Conference on Network and Parallel Computing (NPC 2024)
   - The 20th International Conference on Mobility, Sensing and Networking (MSN 2024)
 
-# 💻 Internships
-- Intern at Department of Financial Technology, Tencent Inc. (Mar. 2019 - Aug. 2019)
+
